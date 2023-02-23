@@ -23,7 +23,7 @@ class UserSeeder extends Seeder
             $user->contact_no = "01770402960";
             $user->alt_contact_no = "01770402960";
             $user->email = "nasrinkona2@gmail.com";
-            $user->password = Hash::make('12345678');
+            $user->password = Hash::make('password');
             $user->save();
         }
     }
