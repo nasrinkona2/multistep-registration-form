@@ -8,7 +8,8 @@
 4. Run php artisan key:generate
 5. Run php artisan migrate --seed (It has some seeded data for your testing)
 6. Run npm install && npm run dev
-7. That's it: launch the main URL and login with default credentials nasrinkona2@gmail.com - password
+7. Run php artisan serve
+8. That's it: launch the main URL and login with default credentials nasrinkona2@gmail.com - password
 0. --------------------------***--------------------------
 
 
