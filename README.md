@@ -1,5 +1,5 @@
 
-Installation Instruction
+0. Installation Instruction
 0. --------------------------***--------------------------
 
 1. Clone the repository with git clone
@@ -9,10 +9,10 @@ Installation Instruction
 5. Run php artisan migrate --seed (It has some seeded data for your testing)
 6. Run npm install && npm run dev
 7. That's it: launch the main URL and login with default credentials nasrinkona2@gmail.com - password
-8. --------------------------***--------------------------
+0. --------------------------***--------------------------
 
 
-Contribution Guideline
+0. Contribution Guideline
 0. --------------------------***--------------------------
 
 1. Fork the repository
@@ -23,4 +23,4 @@ Contribution Guideline
 6. Push to remote
 7. When work is tested, done or ready, push to remote
 8. Merge to master
-9. --------------------------***--------------------------
+0. --------------------------***--------------------------
